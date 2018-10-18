@@ -48,7 +48,7 @@ Pre-requirements:
 
 ```
 $ cd $GOPATH/src/github.com/dif
-$ git clone https://github.com/difchain2018/atomic_swap && cd atomic_swap
+$ git clone https://github.com/difchain2018/atomic_swap && cd DifChain-atomicswap
 $ dep ensure
 $ go install ./cmd/...
 ```
